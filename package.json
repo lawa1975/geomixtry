@@ -1,0 +1,23 @@
+{
+  "name": "geomixtry",
+  "version": "0.0.1",
+  "description": "\"# Geomixtry\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawa1975/geomixtry.git"
+  },
+  "keywords": [],
+  "author": "lawa1975",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lawa1975/geomixtry/issues"
+  },
+  "homepage": "https://github.com/lawa1975/geomixtry#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
