@@ -1,3 +1,3 @@
 # Geomixtry
 
-Typescript library with some specialized functionality about geometrics. 
+Javascript/Typescript library with some specialized functionality about geometrics. 
