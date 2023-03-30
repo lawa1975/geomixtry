@@ -1,5 +1,1 @@
-function outputSomething(): void {
-    console.log("It is working!");
-}
- 
-outputSomething();
+export const calcRectangleArea = (x: number, y: number): number => Math.abs(x) * Math.abs(y);
