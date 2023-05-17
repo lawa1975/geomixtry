@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: Generate and publish docs to GH Pages
 
 on:
   # Runs on every release
